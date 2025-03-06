@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.top-menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0D1117;
+    height: 120px;
+}
+
+.img-inc-fundo{
+    width: 200px;
+    margin-left: 50px;
+}
+
+.nav-top-menu{
+    display: flex;
+}
+
+.links-top-menu{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    margin-right: 50px;
+    align-self: center;
+}
+
+.link-top{
+    
+}
+
+.a-link-top{
+    text-decoration: none;
+    color: #E6EDF3;
+}
