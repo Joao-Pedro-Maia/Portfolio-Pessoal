@@ -66,11 +66,39 @@
 
 .h1-text-mid-img{
     color: white;
-    font-family: "Poppins", sans-serif;
+    font-family: "Inter", sans-serif;
+    font-size: 50px;
 }
 
 .p2-text-mid-img{
     color: white;
     font-family: "M PLUS Rounded 1c", sans-serif;
     font-size: x-large;
+}
+
+.social-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 25px;    
+    list-style: none;
+}
+
+.li-social-links{
+
+}
+
+.icon-linkedin{
+    color: white;
+    font-size: 25px;
+}
+
+.icon-github{
+    color: white;
+    font-size: 25px;
+}
+
+.icon-email{
+    color: white;   
+    font-size: 25px;
 }
