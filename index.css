@@ -100,3 +100,13 @@
     color: white;   
     font-size: 25px;
 }
+
+.social-links::before{
+    content: '_________________';
+    color: white;
+}
+
+.social-links::after{
+    content: '_________________';
+    color: white;
+}
