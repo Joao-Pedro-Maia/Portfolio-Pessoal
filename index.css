@@ -61,31 +61,29 @@
     color: white;
     font-family: "M PLUS Rounded 1c", sans-serif;
     font-size: x-large;
-
+    cursor: default;
 }
 
 .h1-text-mid-img{
     color: white;
     font-family: "Inter", sans-serif;
     font-size: 50px;
+    cursor: default;
 }
 
 .p2-text-mid-img{
     color: white;
     font-family: "M PLUS Rounded 1c", sans-serif;
     font-size: x-large;
+    cursor: default;
 }
 
-.social-links{
+.social-links {
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 25px;    
     list-style: none;
-}
-
-.li-social-links{
-
 }
 
 .icon-linkedin{
