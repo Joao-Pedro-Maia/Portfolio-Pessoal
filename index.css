@@ -3,7 +3,7 @@
     padding: 0%;
 }
 
-#top-menu{
+#home{
     display: flex;
     justify-content: space-between;
     background-color: #0D1117;
@@ -73,21 +73,21 @@
 }
 
 .p-text-mid-img{
-    color: white;
+    color: #E6EDF3;
     font-family: "M PLUS Rounded 1c", sans-serif;
     font-size: x-large;
     cursor: default;
 }
 
 .h1-text-mid-img{
-    color: white;
+    color: #E6EDF3;
     font-family: "Inter", sans-serif;
     font-size: 50px;
     cursor: default;
 }
 
 .p2-text-mid-img{
-    color: white;
+    color: #E6EDF3;
     font-family: "M PLUS Rounded 1c", sans-serif;
     font-size: x-large;
     cursor: default;
@@ -102,28 +102,28 @@
 }
 
 .icon-linkedin{
-    color: white;
+    color: #E6EDF3;
     font-size: 25px;
 }
 
 .icon-github{
-    color: white;
+    color: #E6EDF3;
     font-size: 25px;
 }
 
 .icon-email{
-    color: white;   
+    color: #E6EDF3;   
     font-size: 25px;
 }
 
 .social-links::before{
     content: '_________________';
-    color: white;
+    color: #E6EDF3;
 }
 
 .social-links::after{
     content: '_________________';
-    color: white;
+    color: #E6EDF3;
 }
 
 /* Utilizar depois
@@ -208,4 +208,36 @@
     width: 100px;
     text-align: center;
     font-family: "JetBrains Mono", monospace;
+}
+
+.button-linkedin-sobre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+    border: 1px solid #3DDC97;
+    width: 200px;
+    margin-left: 250px;
+    border-radius: 30px;
+    transition-delay: 0.1s;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+.button-linkedin-sobre:hover{
+    border: 1px solid #3DDC97;
+    background-color: #3DDC97;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.link-button-sobre{
+    text-decoration: none;
+    color: #e6edf3;
+    font-size: x-large;
+}
+
+.linkedin-sobre{
+    color: #e6edf3;
+    font-size: x-large;
 }
