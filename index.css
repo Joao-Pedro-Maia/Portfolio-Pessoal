@@ -3,6 +3,10 @@
     padding: 0%;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 #home{
     display: flex;
     justify-content: space-between;
@@ -282,13 +286,12 @@
 
 .h2-projeto1{
     color: #3DDC97;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .foto-teste-projeto1{
     width: 300px;
     margin: 20px 0 5px 0;
-    border: 1px solid #3DDC97;
     border-radius: 20px;
 }
 
