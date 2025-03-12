@@ -1,3 +1,5 @@
 # Portfolio-Pessoal
 
-https://portfolio-pessoal-flax-one.vercel.app/
+https://joao-pedro-maia.github.io/Portfolio-Pessoal/
+
+
