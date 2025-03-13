@@ -496,5 +496,28 @@ html{
 .h2-service2{
     color: #3DDC97;
     font-family: "Inter", sans-serif;
-    margin: 20px 0 20px 430px;
+    margin: 20px 0 20px 100px;
+}
+
+.p-service2{
+    color: #E6EDF3;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    width: 80%;
+    margin: 0 0 0 100px;
+}
+
+.button-services2{
+    color: #E6EDF3;
+    border: 1px solid #3DDC97;
+    border-radius: 20px;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    margin: 80px 0 0 100px;
+    transition-duration: 1s;
+    transition-delay: 0.2;
+}
+
+.button-services2:hover{
+    background-color: #3DDC97;
 }
